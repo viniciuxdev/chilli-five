@@ -3,10 +3,10 @@
 <CWeaponModelInfo__InitDataList>
 	<InitDatas>
 		<Item>
-			<modelName>w_ex_shoes</modelName>
-			<txdName>w_ex_shoes</txdName>
+			<modelName>w_me_karambit</modelName>
+			<txdName>w_me_karambit</txdName>
 			<ptfxAssetName>NULL</ptfxAssetName>
-			<lodDist value="100"/>
+			<lodDist value="175"/>
 		</Item>
 	</InitDatas>
 </CWeaponModelInfo__InitDataList>
